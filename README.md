@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramya Uday Nippani</h1>
 <h3 align="center">A passionate frontend developer from Indiaper from India</h3>
-img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-
+<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya0799&label=Profile%20views&color=0e75b6&style=flat" alt="ramya0799" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
